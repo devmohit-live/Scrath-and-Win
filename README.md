@@ -1,6 +1,6 @@
 # Scratch And Win Game
 
-A bare-minimum Tic Tac Toe App built on React-Native
+A lottery type fun app built on React-Native
 
 ## Screenshots :
 
