@@ -1,19 +1,6 @@
 # Tic-Tac-Toe
 
  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
-<style>
-.flex-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-},
-temp{
-    margin:20;
-    padding:15;
-
-}
-</style>
 
 A bare-minimum Tic Tac Toe App built on React-Native
 
@@ -35,7 +22,10 @@ A bare-minimum Tic Tac Toe App built on React-Native
 
 <!-- [![Instagram](https://en.instagram-brand.com/wp-content/uploads/2016/11/Glyph-Icon-hero.png)](https://www.instagram.com/mr_developer.code/ "Instagram") -->
 
-<div class='flex-container'>
+<div style="display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;">
 
 [<img src="https://en.instagram-brand.com/wp-content/uploads/2016/11/Glyph-Icon-hero.png" width="100" height="100" />](https://www.instagram.com/mr_developer.code/ "Instagram")
 
