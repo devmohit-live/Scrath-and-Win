@@ -1,6 +1,4 @@
-# Tic-Tac-Toe
-
- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+# Scratch And Win Game
 
 A bare-minimum Tic Tac Toe App built on React-Native
 
